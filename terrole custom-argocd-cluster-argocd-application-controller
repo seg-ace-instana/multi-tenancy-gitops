@@ -1,0 +1,2 @@
+NAME                                                  ROLE                                                              AGE
+openshift-gitops-cntk-argocd-application-controller   ClusterRole/custom-argocd-cluster-argocd-application-controller   3m58s
